@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="5988" started-at="2021-07-30T15:43:55Z" finished-at="2021-07-30T15:44:01Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="5988" started-at="2021-07-30T15:43:55Z" finished-at="2021-07-30T15:44:01Z">
+      <class name="TestPackage.TestNg1">
+        <test-method status="PASS" signature="config()[pri:0, instance:TestPackage.TestNg1@77caeb3e]" name="config" is-config="true" duration-ms="190" started-at="2021-07-30T21:13:55Z" finished-at="2021-07-30T21:13:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method status="PASS" signature="m1()[pri:0, instance:TestPackage.TestNg1@77caeb3e]" name="m1" duration-ms="5785" started-at="2021-07-30T21:13:55Z" finished-at="2021-07-30T21:14:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="m2()[pri:0, instance:TestPackage.TestNg1@77caeb3e]" name="m2" duration-ms="1" started-at="2021-07-30T21:14:01Z" finished-at="2021-07-30T21:14:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+        <test-method status="PASS" signature="m3()[pri:0, instance:TestPackage.TestNg1@77caeb3e]" name="m3" duration-ms="0" started-at="2021-07-30T21:14:01Z" finished-at="2021-07-30T21:14:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+      </class> <!-- TestPackage.TestNg1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
